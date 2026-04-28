@@ -66,7 +66,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/username">LinkedIn</a> • 
+  <a href="https://linkedin.com/in/rosyadzain">LinkedIn</a> • 
   <a href="#">Portfolio</a>
 </p>
 
