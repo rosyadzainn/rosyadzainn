@@ -40,23 +40,51 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 <tr>
 <td align="center" style="padding: 10px;">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200"/>
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200" style="border-radius:10px;"/>
 </a>
 <br/>
-<b>Koi Statue (Unreal Engine)</b>
+<b>Koi Statue</b><br/>
+<sub>Unreal Engine • Cinematic Environment</sub>
 </td>
 
 <td align="center" style="padding: 10px;">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="200"/>
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="200" style="border-radius:10px;"/>
 </a>
 <br/>
-<b>Bamboo Forest (Unreal Engine)</b>
+<b>Bamboo Forest</b><br/>
+<sub>Unreal Engine • Lighting & Atmosphere</sub>
 </td>
 </tr>
 </table>
 
 </div>
+
+---
+
+## 🧩 What I Do
+
+- 🎮 **3D & Real-Time Development**  
+  Unreal Engine, environment design, interactive scenes  
+
+- 🌐 **Web Development**  
+  Company websites, UI implementation, deployment  
+
+- 💻 **IT & Systems**  
+  Internal tools, digital systems, automation  
+
+- 🎬 **Multimedia & Content**  
+  Video editing, motion, social media assets  
+
+---
+
+## 📂 Other Work
+
+- 🎮 3D Experiments & Assets  
+- 🌐 Website UI/UX Projects  
+- 💻 IT Software & Systems  
+- 🎬 Video & Content Production  
+- 📸 Photography  
 
 ---
 
@@ -70,7 +98,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/rosyadzain">LinkedIn</a> • 
+  <a href="https://linkedin.com/in/username">LinkedIn</a> • 
   <a href="#">Portfolio</a>
 </p>
 
