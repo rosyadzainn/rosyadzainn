@@ -38,7 +38,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 <p align="center">
   <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
-    <img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="600"/>
+    <img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200"/>
   </a>
 </p>
 
