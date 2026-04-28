@@ -34,10 +34,25 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🚀 Featured Projects
 
-| 🎮 Unreal Environment | 🌊 Project Kedua |
-|----------------------|------------------|
-| <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250"><img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="100"/></a> | <a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154"><img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="100"/></a> |
-| Cinematic real-time environment using Unreal Engine | Deskripsi project kedua |
+<table>
+<tr>
+<td align="center">
+<a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="250"/>
+</a>
+<br/>
+<b>Cinematic Unreal Environment</b>
+</td>
+
+<td align="center">
+<a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154">
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="250"/>
+</a>
+<br/>
+<b>Second Environment Exploration</b>
+</td>
+</tr>
+</table>
 ---
 
 ## 📊 GitHub Stats
