@@ -34,11 +34,11 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🚀 Featured Projects
 
-<p align="center">
+<div align="center">
 
 <table>
 <tr>
-<td align="center">
+<td align="center" style="padding: 10px;">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
 <img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200"/>
 </a>
@@ -46,7 +46,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 <b>Koi Statue (Unreal Engine)</b>
 </td>
 
-<td align="center">
+<td align="center" style="padding: 10px;">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154">
 <img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="200"/>
 </a>
@@ -56,7 +56,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 </tr>
 </table>
 
-</p>
+</div>
 
 ---
 
