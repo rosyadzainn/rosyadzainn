@@ -34,6 +34,8 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🚀 Featured Projects
 
+<p align="center">
+
 <table>
 <tr>
 <td align="center">
