@@ -40,7 +40,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 <tr>
 <td align="center">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="100"/>
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200"/>
 </a>
 <br/>
 <b>Koi Statue (Unreal Engine)</b>
@@ -48,13 +48,15 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 <td align="center">
 <a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="100"/>
+<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="200"/>
 </a>
 <br/>
 <b>Bamboo Forest (Unreal Engine)</b>
 </td>
 </tr>
 </table>
+
+</p>
 
 ---
 
