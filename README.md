@@ -7,9 +7,9 @@
 ---
 
 ## 🧭 About Me
-I specialize in building immersive digital experiences — from 3D environments to real-time interactive applications.
+I craft immersive digital experiences by combining **3D artistry** and **real-time technology**.
 
-With a strong foundation in both **creative design** and **technical development**, I bring ideas to life using modern tools like **Unreal Engine** and **Blender**.
+Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visualizations, and digital systems that bridge creativity and engineering.
 
 ---
 
@@ -21,20 +21,30 @@ With a strong foundation in both **creative design** and **technical development
 ---
 
 ## 🛠 Tech Stack
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=blender,unity,html,css,js" />
 </p>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" />
   <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 🔹 Coming soon...
-- 🔹 Your best works will be showcased here
+## 🚀 Featured Projects
+
+### 🎮 Cinematic 3D Environment – Unreal Engine
+
+<p align="center">
+  <a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
+    <img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="800"/>
+  </a>
+</p>
+
+<p align="center">
+  Cinematic real-time environment built using Unreal Engine, focusing on lighting, atmosphere, and immersive visual storytelling.
+</p>
 
 ---
 
@@ -47,8 +57,10 @@ With a strong foundation in both **creative design** and **technical development
 ---
 
 ## 🌐 Connect
-- LinkedIn: (isi nanti)
-- Portfolio: (isi nanti)
+<p align="center">
+  <a href="https://linkedin.com/in/username">LinkedIn</a> • 
+  <a href="#">Portfolio</a>
+</p>
 
 ---
 
