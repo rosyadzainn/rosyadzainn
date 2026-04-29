@@ -67,14 +67,44 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 - 🎮 **3D & Real-Time Development**  
   Unreal Engine, environment design, interactive scenes  
 
-- 🌐 **Web Development**  
-  Company websites, UI implementation, deployment  
+- 🌐 **Web Development & UI/UX**  
+  Website design, UI systems, Figma prototyping  
 
 - 💻 **IT & Systems**  
   Internal tools, digital systems, automation  
 
 - 🎬 **Multimedia & Content**  
   Video editing, motion, social media assets  
+
+---
+
+## 🌐 Web Design Showcase
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" style="padding: 10px;">
+<a href="LINK_FIGMA_1">
+<img src="LINK_PREVIEW_1" width="220" style="border-radius:10px;"/>
+</a>
+<br/>
+<b>Website Design 1</b><br/>
+<sub>Figma • UI/UX Design</sub>
+</td>
+
+<td align="center" style="padding: 10px;">
+<a href="LINK_FIGMA_2">
+<img src="LINK_PREVIEW_2" width="220" style="border-radius:10px;"/>
+</a>
+<br/>
+<b>Website Design 2</b><br/>
+<sub>Figma • UI/UX Design</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
