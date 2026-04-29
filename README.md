@@ -68,18 +68,9 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rosyadzainn&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rosyadzainn&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect
 <p align="center">
-  <a href="https://linkedin.com/in/username">LinkedIn</a> • 
-  <a href="#">Portfolio</a>
+  <a href="https://linkedin.com/in/rosyadzain">LinkedIn</a>
 </p>
 
 ---
