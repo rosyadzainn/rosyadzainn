@@ -30,13 +30,23 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 ---
 
 ## 🛠 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=blender,unity,figma,html,css,js" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" />
   <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender" />
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity" />
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
 </p>
 
 ---
