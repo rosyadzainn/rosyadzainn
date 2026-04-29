@@ -57,8 +57,8 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🌐 Web Design
 
-- 🖥️ [Website Design 1 – Figma](LINK_FIGMA_1)  
-- 🖥️ [Website Design 2 – Figma](LINK_FIGMA_2)
+- 🖥️ [Website Design 1 – Figma](www.pendi.id)  
+- 🖥️ [Website Design 2 – Figma](wwww.pendihijau.com)
 
 ---
 
