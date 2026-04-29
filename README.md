@@ -78,33 +78,10 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ---
 
-## 🌐 Web Design Showcase
+## 🌐 Web Design
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" style="padding: 10px;">
-<a href="LINK_FIGMA_1">
-<img src="LINK_PREVIEW_1" width="220" style="border-radius:10px;"/>
-</a>
-<br/>
-<b>Website Design 1</b><br/>
-<sub>Figma • UI/UX Design</sub>
-</td>
-
-<td align="center" style="padding: 10px;">
-<a href="LINK_FIGMA_2">
-<img src="LINK_PREVIEW_2" width="220" style="border-radius:10px;"/>
-</a>
-<br/>
-<b>Website Design 2</b><br/>
-<sub>Figma • UI/UX Design</sub>
-</td>
-</tr>
-</table>
-
-</div>
+- 🖥️ [Website Design 1 – Figma](LINK_FIGMA_1)  
+- 🖥️ [Website Design 2 – Figma](LINK_FIGMA_2)
 
 ---
 
