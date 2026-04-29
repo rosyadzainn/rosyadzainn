@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Rosyad Zain 👋</h1>
+<h1 align="center">Hi, I'm Zain 👋</h1>
 
 <p align="center">
   <i>3D & Real-Time Developer crafting immersive digital experiences</i>
