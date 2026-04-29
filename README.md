@@ -13,10 +13,19 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ---
 
-## ⚡ Focus
-- 🎯 3D Development  
-- 🚀 Unreal Engine  
-- ⚙️ Real-Time Rendering  
+## 🧩 What I Do
+
+- 🎮 **3D & Real-Time Development**  
+  Unreal Engine, environment design, interactive scenes  
+
+- 🌐 **Web Development & UI/UX**  
+  Website design, UI systems, Figma prototyping  
+
+- 💻 **IT & Systems**  
+  Internal tools, digital systems, automation  
+
+- 🎬 **Multimedia & Content**  
+  Video editing, motion, social media assets  
 
 ---
 
@@ -39,36 +48,10 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ---
 
-## 🧩 What I Do
-
-- 🎮 **3D & Real-Time Development**  
-  Unreal Engine, environment design, interactive scenes  
-
-- 🌐 **Web Development & UI/UX**  
-  Website design, UI systems, Figma prototyping  
-
-- 💻 **IT & Systems**  
-  Internal tools, digital systems, automation  
-
-- 🎬 **Multimedia & Content**  
-  Video editing, motion, social media assets  
-
----
-
 ## 🌐 Web Design
 
-- 🖥️ [Website Design 1 – Figma](www.pendi.id)  
-- 🖥️ [Website Design 2 – Figma](wwww.pendihijau.com)
-
----
-
-## 📂 Other Work
-
-- 🎮 3D Experiments & Assets  
-- 🌐 Website UI/UX Projects  
-- 💻 IT Software & Systems  
-- 🎬 Video & Content Production  
-- 📸 Photography  
+- 🖥️ [Pendi Group](www.pendi.id)  
+- 🖥️ [PT Pendi Hijau Berkah](wwww.pendihijau.com)
 
 ---
 
