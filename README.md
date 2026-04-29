@@ -37,9 +37,6 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge&logo=unrealengine" />
-  <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge&logo=blender" />
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity" />
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma" />
 </p>
 
 <p align="center">
