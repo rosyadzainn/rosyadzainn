@@ -31,16 +31,25 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🛠 Tech Stack
 
-## 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,unity,figma,html,css,js" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="48"/>
+  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 </p>
 
 ---
