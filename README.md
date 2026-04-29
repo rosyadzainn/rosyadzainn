@@ -63,8 +63,8 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🌐 Web Design
 
-- 🖥️ [Pendi Group](www.pendi.id)  
-- 🖥️ [PT Pendi Hijau Berkah](wwww.pendihijau.com)
+- 🖥️ [Pendi Group](https://www.pendi.id)  
+- 🖥️ [PT Pendi Hijau Berkah](https://wwww.pendihijau.com)
 
 ---
 
