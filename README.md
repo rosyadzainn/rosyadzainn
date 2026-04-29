@@ -34,31 +34,8 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center" style="padding: 10px;">
-<a href="https://www.tiktok.com/@rosyadzainn/video/7632714086676991250">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project1.png" width="200" style="border-radius:10px;"/>
-</a>
-<br/>
-<b>Koi Statue</b><br/>
-<sub>Unreal Engine • Cinematic Environment</sub>
-</td>
-
-<td align="center" style="padding: 10px;">
-<a href="https://www.tiktok.com/@rosyadzainn/video/7619759274142715154">
-<img src="https://raw.githubusercontent.com/rosyadzainn/rosyadzainn/main/project2.png" width="200" style="border-radius:10px;"/>
-</a>
-<br/>
-<b>Bamboo Forest</b><br/>
-<sub>Unreal Engine • Lighting & Atmosphere</sub>
-</td>
-</tr>
-</table>
-
-</div>
+- 🎮 [Koi Statue – Unreal Engine (Cinematic Environment)](https://www.tiktok.com/@rosyadzainn/video/7632714086676991250)  
+- 🎮 [Bamboo Forest – Unreal Engine (Lighting & Atmosphere)](https://www.tiktok.com/@rosyadzainn/video/7619759274142715154)
 
 ---
 
