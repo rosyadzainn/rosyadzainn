@@ -6,30 +6,30 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 I craft immersive digital experiences by combining **3D artistry** and **real-time technology**.
 
 Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visualizations, and digital systems that bridge creativity and engineering.
 
 ---
 
-## 🧩 What I Do
+## What I Do
 
-- 🎮 **3D & Real-Time Development**  
+- **3D & Real-Time Development**  
   Unreal Engine, environment design, interactive scenes  
 
-- 🌐 **Web Development & UI/UX**  
+- **Web Development & UI/UX**  
   Website design, UI systems, Figma prototyping  
 
-- 💻 **IT & Systems**  
+- **IT & Systems**  
   Internal tools, digital systems, automation  
 
-- 🎬 **Multimedia & Content**  
+- **Multimedia & Content**  
   Video editing, motion, social media assets  
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge" />
@@ -54,21 +54,27 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ---
 
-## 🎮 3D & Real-Time Projects
+## 3D & Real-Time Projects
 
-- 🎮 [Koi Statue – Unreal Engine (Cinematic Environment)](https://www.tiktok.com/@rosyadzainn/video/7632714086676991250)  
-- 🎮 [Bamboo Forest – Unreal Engine (Lighting & Atmosphere)](https://www.tiktok.com/@rosyadzainn/video/7619759274142715154)
-
----
-
-## 🌐 Web Design
-
-- 🖥️ [Pendi Group](https://www.pendi.id)  
-- 🖥️ [PT Pendi Hijau Berkah](https://www.pendihijau.com)
+- [Koi Statue – Unreal Engine (Cinematic Environment)](https://www.tiktok.com/@rosyadzainn/video/7632714086676991250)  
+- [Bamboo Forest – Unreal Engine (Lighting & Atmosphere)](https://www.tiktok.com/@rosyadzainn/video/7619759274142715154)
 
 ---
 
-## 🌐 Connect
+## Web Design
+
+- [Pendi Group](https://www.pendi.id)  
+- [PT Pendi Hijau Berkah](https://www.pendihijau.com)
+
+---
+
+## IT & System
+
+- [Inventory System] (https://rosyadzainn.github.io/inventory-system-V2)
+
+---
+
+## Connect
 <p align="center">
   <a href="https://linkedin.com/in/rosyadzain">LinkedIn</a>
 </p>
