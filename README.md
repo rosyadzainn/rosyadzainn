@@ -70,7 +70,7 @@ Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visual
 
 ## IT & System
 
-- [Inventory System] (https://rosyadzainn.github.io/inventory-system-V2)
+- [Inventory System](https://rosyadzainn.github.io/inventory-system-V2)
 
 ---
 
