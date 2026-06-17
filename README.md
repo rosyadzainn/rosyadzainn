@@ -2,7 +2,7 @@
 
 # Hi, I'm Zain 👋
 
-### Design-led product builder — brand, UX & shipped web apps
+### Creative Director, Design-led product builder — brand, UX & shipped web apps
 
 Yogyakarta, Indonesia · Working globally
 
