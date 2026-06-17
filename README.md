@@ -59,8 +59,8 @@ When a project needs a cinematic edge, I also bring **3D environment art (Unreal
 
 - 🛡️ **[Crucible](https://crucible-iota.vercel.app)** — Adversarial document-hardening app running Red / Blue / Arbiter AI agents that stress-test and strengthen your documents. *Band of Agents Hackathon.*
 - 🌐 **[Framure](https://framure.com)** — My design-led web studio. Premium, bilingual websites built design-to-deploy.
-- 🕌 **Islametra** — AI-powered Islamic platform with curated content and a refined reading experience.
-- 🏢 **Pendi Group** — Rebuilt corporate sites from legacy platforms into fast, bilingual Next.js apps.
+- 🕌 **[Islametra](https://www.islametra.com)** — AI-powered Islamic platform with curated content and a refined reading experience.
+- 🏢 **[Pendi Group](https://www.pendi.id/en)** — Rebuilt corporate sites from legacy platforms into fast, bilingual Next.js apps.
 
 ---
 
