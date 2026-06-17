@@ -1,86 +1,81 @@
-<h1 align="center">Hi, I'm Zain 👋</h1>
+<div align="center">
 
-<p align="center">
-  <i>3D & Real-Time Developer crafting immersive digital experiences</i>
-</p>
+# Hi, I'm Zain 👋
+
+### Design-led product builder — brand, UX & shipped web apps
+
+Yogyakarta, Indonesia · Working globally
+
+</div>
 
 ---
 
 ## About Me
-I craft immersive digital experiences by combining **3D artistry** and **real-time technology**.
 
-Focused on **Unreal Engine** and **Blender**, I build interactive worlds, visualizations, and digital systems that bridge creativity and engineering.
+I'm **Rosyad (Zain)** — a design-led Creative Director and product builder.
+
+I take ideas from **brand and UX all the way to a live, deployed web app**, owning the whole arc instead of stopping at mockups. I lead with design in Figma, then ship through a modern **AI-augmented build workflow** that lets me deliver complete products solo — and I'm continuously deepening my hands-on engineering to bring more of the execution in-house.
+
+When a project needs a cinematic edge, I also bring **3D environment art (Unreal Engine 5)**, motion, and video.
 
 ---
 
 ## What I Do
 
-- **3D & Real-Time Development**  
-  Unreal Engine, environment design, interactive scenes  
-
-- **Web Development & UI/UX**  
-  Website design, UI systems, Figma prototyping  
-
-- **IT & Systems**  
-  Internal tools, digital systems, automation  
-
-- **Multimedia & Content**  
-  Video editing, motion, social media assets  
+- 🎨 &nbsp; **Brand & Product Design** — Brand identity, visual systems, and UX in Figma
+- 🚀 &nbsp; **Web Products** — Bilingual, conversion-focused apps on Next.js + Supabase + Vercel
+- 🎬 &nbsp; **3D & Motion** — Cinematic environment art in Unreal Engine 5, video, and motion graphics
+- 🧭 &nbsp; **End-to-End Direction** — Positioning, design system, build, deployment, SEO & analytics
 
 ---
 
 ## Tech Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unreal%20Engine-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Blender-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge" />
-</p>
+**Build**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge" />
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge" />
-</p>
+**Design & 3D**
 
----
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
-## 3D & Real-Time Projects
+**Motion & Video**
 
-- [Koi Statue – Unreal Engine (Cinematic Environment)](https://www.tiktok.com/@rosyadzainn/video/7632714086676991250)  
-- [Bamboo Forest – Unreal Engine (Lighting & Atmosphere)](https://www.tiktok.com/@rosyadzainn/video/7619759274142715154)
+![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
+![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
 
 ---
 
-## Web Design
+## Featured Projects
 
-- [Pendi Group](https://www.pendi.id)  
-- [PT Pendi Hijau Berkah](https://www.pendihijau.com)
-
----
-
-## IT & System
-
-- [Inventory System](https://rosyadzainn.github.io/inventory-system-V2)
+- 🛡️ **[Crucible](https://crucible-iota.vercel.app)** — Adversarial document-hardening app running Red / Blue / Arbiter AI agents that stress-test and strengthen your documents. *Band of Agents Hackathon.*
+- 🌐 **[Framure](https://framure.com)** — My design-led web studio. Premium, bilingual websites built design-to-deploy.
+- 🕌 **Islametra** — AI-powered Islamic platform with curated content and a refined reading experience.
+- 🏢 **Pendi Group** — Rebuilt corporate sites from legacy platforms into fast, bilingual Next.js apps.
 
 ---
 
-## Connect
-<p align="center">
-  <a href="https://linkedin.com/in/rosyadzain">LinkedIn</a>
-</p>
+## Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rosyadzain.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rosyadzain.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosyadzain)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainvon@gmail.com)
+
+</div>
 
 ---
 
-<p align="center">
-  <i>"Turning ideas into immersive digital reality"</i>
-</p>
+<div align="center">
+<i>Design-led. Shipped end-to-end.</i>
+</div>
