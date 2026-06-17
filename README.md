@@ -70,7 +70,7 @@ When a project needs a cinematic edge, I also bring **3D environment art (Unreal
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-rosyadzain.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rosyadzain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosyadzain)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainvon@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosyadz123@gmail.com)
 
 </div>
 
