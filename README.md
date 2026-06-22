@@ -2,7 +2,7 @@
 
 # Hi, I'm Zain 👋
 
-### Creative Director, Design-led product builder — brand, UX & shipped web apps
+### Product Designer — UI/UX, brand & shipped products
 
 Yogyakarta, Indonesia · Working globally
 
@@ -12,9 +12,9 @@ Yogyakarta, Indonesia · Working globally
 
 ## About Me
 
-I'm **Rosyad (Zain)** — a design-led Creative Director and product builder.
+I'm **Rosyad (Zain)** — a product designer who ships.
 
-I take ideas from **brand and UX all the way to a live, deployed web app**, owning the whole arc instead of stopping at mockups. I lead with design in Figma, then ship through a modern **AI-augmented build workflow** that lets me deliver complete products solo — and I'm continuously deepening my hands-on engineering to bring more of the execution in-house.
+I take ideas from **brand and UX all the way to a live, deployed web app** — not just mockups. I design in Figma and ship real products, including **AI-powered ones**.
 
 When a project needs a cinematic edge, I also bring **3D environment art (Unreal Engine 5)**, motion, and video.
 
@@ -22,10 +22,10 @@ When a project needs a cinematic edge, I also bring **3D environment art (Unreal
 
 ## What I Do
 
-- 🎨 &nbsp; **Brand & Product Design** — Brand identity, visual systems, and UX in Figma
+- 🎨 &nbsp; **Product & UI/UX Design** — Interfaces, design systems, and brand identity in Figma
 - 🚀 &nbsp; **Web Products** — Bilingual, conversion-focused apps on Next.js + Supabase + Vercel
 - 🎬 &nbsp; **3D & Motion** — Cinematic environment art in Unreal Engine 5, video, and motion graphics
-- 🧭 &nbsp; **End-to-End Direction** — Positioning, design system, build, deployment, SEO & analytics
+- 🌐 &nbsp; **Design to Deployment** — Design systems, build, deployment, SEO & analytics
 
 ---
 
@@ -35,16 +35,16 @@ When a project needs a cinematic edge, I also bring **3D environment art (Unreal
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-149ECA?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 **Design & 3D**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
@@ -57,25 +57,21 @@ When a project needs a cinematic edge, I also bring **3D environment art (Unreal
 
 ## Featured Projects
 
-- 🛡️ **[Crucible](https://crucible-iota.vercel.app)** — Adversarial document-hardening app running Red / Blue / Arbiter AI agents that stress-test and strengthen your documents. *Band of Agents Hackathon.*
-- 🌐 **[Framure](https://framure.com)** — My design-led web studio. Premium, bilingual websites built design-to-deploy.
-- 🕌 **[Islametra](https://www.islametra.com)** — AI-powered Islamic platform with curated content and a refined reading experience.
-- 🏢 **[Pendi Group](https://www.pendi.id/en)** — Rebuilt corporate sites from legacy platforms into fast, bilingual Next.js apps.
+- 🛡️ &nbsp; **[Crucible](https://github.com/rosyadzainn/crucible)** — Adversarial document-hardening app running Red / Blue / Arbiter AI agents that stress-test and strengthen your documents. *Band of Agents Hackathon.*
+- 🌐 &nbsp; **[Framure](https://framure.com)** — My design-led web studio. Premium, bilingual websites built design-to-deploy.
+- 🕌 &nbsp; **[Islametra](https://islametra.com)** — AI-powered Islamic platform with curated content and a refined reading experience.
+- 🏢 &nbsp; **[Pendi Group](https://pendi.id)** — Rebuilt corporate sites from legacy platforms into fast, bilingual Next.js apps.
 
 ---
 
 ## Let's Connect
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-rosyadzain.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rosyadzain.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rosyadzain)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rosyadz123@gmail.com)
 
-</div>
-
----
-
 <div align="center">
-<i>Design-led. Shipped end-to-end.</i>
+
+*Design-led. Shipped end-to-end.*
+
 </div>
